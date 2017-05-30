@@ -153,6 +153,10 @@ h3 {
     color: rgb(170,0,0);
 }
 
+.sidebar_content img {
+    width: 100%;
+}
+
 .sidebar_ad {
     width: 100%;
     text-align: center;
