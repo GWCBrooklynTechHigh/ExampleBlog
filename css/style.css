@@ -153,17 +153,13 @@ h3 {
     color: rgb(170,0,0);
 }
 
-.sidebar_content img {
+.sidebar_img {
     width: 100%;
 }
 
 .sidebar_ad {
     width: 100%;
     text-align: center;
-}
-
-.sidebar_ad img {
-    width: 50px;
 }
 
 .more {
